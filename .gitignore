@@ -1,0 +1,25 @@
+HELP.md
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+### IntelliJ IDEA ###
+.idea
+.gradle
+gradle
+/build/
+*.iws
+*.iml
+*.ipr
+
+# task files
+build
+assignmentKey
+partId

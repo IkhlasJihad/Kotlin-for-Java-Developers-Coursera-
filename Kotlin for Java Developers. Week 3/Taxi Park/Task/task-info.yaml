@@ -1,0 +1,97 @@
+type: edu
+files:
+  - name: src/taxipark/TaxiPark.kt
+    visible: true
+    learner_created: false
+  - name: src/taxipark/TaxiParkTask.kt
+    visible: true
+    placeholders:
+      - offset: 137
+        length: 96
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 136
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+      - offset: 401
+        length: 136
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 311
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+      - offset: 710
+        length: 128
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 490
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+      - offset: 988
+        length: 222
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 646
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+      - offset: 1880
+        length: 50
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 929
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+      - offset: 2070
+        length: 771
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 1075
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: test/taxipark/TaxiParkTestUtil.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask1FakeDrivers.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask2FaithfulPassengers.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask3FrequentPassengers.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask4SmartPassengers.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask5TheMostFrequentTripDurationPeriod.kt
+    visible: true
+    learner_created: false
+  - name: test/taxipark/TestTask6ParetoPrinciple.kt
+    visible: true
+    learner_created: false
+  - name: partId
+    visible: false
+    learner_created: false
+  - name: assignmentKey
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/xTPZT/taxi-park/discussions
+status: Unchecked
+feedback:
+  message: "Submission successful, please <a href=\"https://www.coursera.org/learn/kotlin-for-java-developers/programming/xTPZT/taxi-park/submission\"\
+    >check the status on Coursera</a>"
+  time: "Fri, 20 Sep 2024 07:54:13 UTC"
+record: -1
